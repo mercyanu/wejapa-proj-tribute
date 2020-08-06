@@ -1,0 +1,145 @@
+body{
+    color:#3f3f44;
+    background-color: #f7f7f7;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5em;;
+}
+
+#main-section{
+    margin: 30px 0;;
+}
+.container{
+    text-align: center;
+}
+
+.name{
+    color: #110e0e;
+    line-height: 2;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h5{
+    font-size: 1.2rem;
+    line-height: 2;
+    font-weight: bold;
+}
+
+span{
+    color: #9a1f40;
+    font-weight: bold;
+}
+
+.about{
+    text-align: left;
+    font-size: 0.9rem;
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding:5px;
+}
+
+.image-container{
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin-top: 30px;
+    padding: 20px 0px;
+    background-color: #fdcb9e;
+    position: relative;
+}
+
+.image{
+    border-radius: 100%;;
+    width: 30%;
+}
+
+.caption{
+    background-color: #3f3f44;
+    color: #f4f4f4;
+    width: 100%;
+    margin:0 auto;
+    font-size: 0.8rem;
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.full-text{
+    text-align: left;
+    padding: 30px 0;
+    width: 90%;
+    margin:0 auto;
+}
+
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li + li{
+    margin-top: 10px;
+}
+
+/* body{
+    color:darkslategray;
+    font-family: sans-serif;
+}
+
+p{
+    display: :flex;
+    font-size: 17px;
+}
+main-section{
+    display: flex;
+    background: #EEEEEE;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px 20px 10px;
+}
+
+.name{
+    display: flex;
+    font-size: 40px;
+    font-weight:bold;
+}
+
+.image-container{
+    background: white;
+    padding: 0 20px 0 20px;
+}
+
+.image{
+    width: 50%;
+}
+
+.caption{
+    font-size: 1em;
+    text-align: center;
+    
+}
+
+.heading{
+    margin: 50px;
+    font-weight: bold;
+    font-size: 1.1em;
+    
+}
+
+ul{
+    width: 40%;
+    margin-bottom: 40px;
+    
+}
+
+li{
+   line-height: 28px;
+    margin-top: 15px;
+}
+
+q, .author{
+    width: 38%;
+    font-style: italic;
+}
+
+.footer{
+    font-weight: bold;
+    font-size: 1.2em;
+} */
